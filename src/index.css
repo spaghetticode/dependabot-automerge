@@ -71,7 +71,7 @@ body {
 /* GLOBAL STYLES */
 .form-group > input[type="text"] {
   display: inline-block;
-  margin-top: 0.4rem;
+  margin: 1.4rem 0;
 }
 .btn {
   padding: 0.8rem 1rem 0.7rem;
