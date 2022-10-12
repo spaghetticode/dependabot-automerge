@@ -1,0 +1,4 @@
+name: GitHub Actions Demo
+run-name: Fake CI run... this action is gonna succeed!
+    steps:
+      - run: echo "🍏 This job's status is ${{ job.status }}."
